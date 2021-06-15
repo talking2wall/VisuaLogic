@@ -1,5 +1,5 @@
 # VisuaLogic
-Simple program to Build and Simulate simple logic circuits, using OR &amp; AND gates.
+Simple program to Build and Simulate logic circuits, using OR &amp; AND gates.
 
 ## Main Features:
 1. Simulate binary Input and Output (using 8bit-to-Decimal converter).
